@@ -4,7 +4,7 @@
 Con Tkinter podemos materializar todas nuestras aplicaciones de consola con Python y llegar a crear programas completos.
 
 
-![](https://ibb.co/7N5d37X)
+![](https://github.com/CarolinaNicasio/GUI-Python-tkinter/blob/ede38321ba813b3c6125e5e8c6e3f807b122e872/readme1.png)
 
 
 
@@ -24,6 +24,6 @@ Install dependencies
 ```bash
   pip install pygame
   ```
-Start the server
+
 
 
